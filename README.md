@@ -16,7 +16,7 @@ I’m Ahmed, a self-taught developer and bug bounty hunter from Ethiopia 🇪�
 - 🧠 I love solving real-world problems with elegant solutions.
 - 🔐 I hack apps to learn how to protect them.
 - ⚙️ I believe in automation, scalability, and clean architecture.
-- 🧵 I share daily code and bug bounty tips on [X](https://x.com/ahmed_hacks).
+- 🧵 I share daily code and bug bounty tips on [X](https://x.com/nocturn0x0).
 
 Whether I’m building a SaaS for kindergartens or reverse engineering an Android app, one thing never changes:
 
