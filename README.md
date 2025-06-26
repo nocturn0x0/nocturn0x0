@@ -6,14 +6,4 @@ My approach blends technical excellence with product thinking — I enjoy design
 
 
 ----
-
-### 🧰 Tech Stack
-
-**Frontend:**  
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
-
-**Backend & DB:**  
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,drizzle,prisma" />
-
-**DevOps & Tools:**  
-<img src="https://skillicons.dev/icons?i=docker,vercel,github" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind, nodejs, postgres, prisma vercel, github, docker, vercel" />
