@@ -5,5 +5,4 @@ I'm a passionate and detail-oriented full-stack web developer dedicated to craft
 My approach blends technical excellence with product thinking — I enjoy designing robust backend systems, building intuitive user interfaces, and streamlining the development process with scalable, maintainable code. Whether I’m working on a startup MVP, a multi-tenant SaaS platform, or internal tooling, my goal is always to deliver clean, reliable solutions that create value for both users and teams.
 
 
-----
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,prisma,vercel,github,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,prisma,docker,githubactions,vercel,figma,postman,vscode,git" />
