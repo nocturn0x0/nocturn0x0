@@ -1,35 +1,48 @@
-<h1 align="center">Hey 👋, I'm Ahmed</h1>
-<p align="center">Full Stack Developer | Bug Bounty Hunter | Terminal Addict | Builder of Bright Ideas</p>
+# 👋 Hi, I'm Ahmed. – Full-Stack Developer
+
+I'm a passionate developer focused on building elegant, scalable web applications. I specialize in modern full-stack development with a strong emphasis on clean architecture, developer experience, and solving real-world problems.
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=22DAF5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=I+build+apps+that+scale+and+code+that+lasts.;I+break+apps+to+understand+how+they+work.;I+live+in+the+terminal+and+love+clean+code."/>
-</div>
+## 🛠 Tech I Work With
+
+- **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS  
+- **Backend:** Node.js, Server Actions, tRPC  
+- **Database:** PostgreSQL, Drizzle ORM  
+- **Auth & Security:** BetterAuth, Clerk, JWT  
+- **Tooling:** Zod, React Hook Form, Vercel, GitHub Actions
 
 ---
 
-### 👨‍💻 Who Am I?
+## 📌 Featured Project: **KinderNest**
 
-I’m Ahmed, a self-taught developer and bug bounty hunter from Ethiopia 🇪🇹 who lives and breathes code.
+A modern, multi-tenant **kindergarten school management system** that helps schools manage everything from registration to daily student tracking.
 
-- 🧠 I love solving real-world problems with elegant solutions.
-- 🔐 I hack apps to learn how to protect them.
-- ⚙️ I believe in automation, scalability, and clean architecture.
-- 🧵 I share daily code and bug bounty tips on [X](https://x.com/nocturn0x0).
+> **Tech Highlights**:  
+> 🧱 Built with Next.js 14, App Router  
+> 🔐 Auth with BetterAuth  
+> 🗃️ Multi-step forms using React Hook Form + Zod  
+> ⚙️ Drizzle ORM + PostgreSQL  
+> 🏫 Multi-tenant support with isolated school data
 
-Whether I’m building a SaaS or a hacking tool, an Android app, one thing never changes:
-
-> **I build with intention, I code with care, and I always keep learning.**
+[🔗 View Project Repository](https://github.com/nocturn0x0/kindernest)
 
 ---
 
-### 🧰 My Tech Toolbox
+## 🌱 I’m Currently
 
-```bash
-Frontend     →  React • Next.js • Tailwind CSS • ShadCN/UI
-Backend      →  Node.js • Express • Next API • Prisma • tRPC
-Databases    →  PostgreSQL • MySQL • SQLite
-Tools & Dev  →  Git • GitHub • Docker • Clerk • Chapa API • Vercel
-Security     →  Burp Suite • Nuclei • httpx • Intercept & bypass auth
-Terminal     →  Bash • Termux • Tmux • Zsh • Linux (Debian-based)
+- Building and polishing KinderNest
+- Exploring AI-assisted workflows in frontend tooling
+- Learning edge-deployable auth systems
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- Portfolio: [yourportfolio.dev](https://yourportfolio.dev)  
+- Email: ahmed.softwarex@gmail.com 
+
+---
+
+_“Clean code. Real impact.”_
