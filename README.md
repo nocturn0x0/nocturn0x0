@@ -6,4 +6,4 @@ My approach blends technical excellence with product thinking — I enjoy design
 
 
 ----
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind, nodejs, postgres, prisma vercel, github, docker, vercel" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,prisma,vercel,github,docker" />
