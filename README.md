@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Ahmed. – Full-Stack Developer
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/nocturn0x0/count.svg" alt="Visitor's Count" />
+</div>
 
 I'm a passionate developer focused on building elegant, scalable web applications. I specialize in modern full-stack development with a strong emphasis on clean architecture, developer experience, and solving real-world problems.
 
@@ -34,14 +38,6 @@ A modern, multi-tenant **kindergarten school management system** that helps scho
 - Building and polishing KinderNest
 - Exploring AI-assisted workflows in frontend tooling
 - Learning edge-deployable auth systems
-
----
-
-## 📫 Let's Connect
-
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- Portfolio: [yourportfolio.dev](https://yourportfolio.dev)  
-- Email: ahmed.softwarex@gmail.com 
 
 ---
 
